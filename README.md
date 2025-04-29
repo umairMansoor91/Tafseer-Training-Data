@@ -24,7 +24,7 @@ The script processes a structured HTML file (`013.htm`) with Islamic text, and:
 2. Iteratively scans through all text and tag elements.
 3. Uses regex and heuristics to detect Kitaabs, Baabs, Sub-Baabs, and Hadith markers.
 4. Maintains context pointers to properly nest Hadith and related content.
-5. Writes output to `013.json`.
+5. Writes output to JSON file.
 
 ---
 
